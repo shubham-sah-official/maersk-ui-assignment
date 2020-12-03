@@ -69,7 +69,7 @@ html {
     border-bottom: 5px solid #2B8EAD;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 376px) {
     html {
         background-color: #ffffff;
     }
